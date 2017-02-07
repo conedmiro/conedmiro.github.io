@@ -1,0 +1,16 @@
+Package: io.github.nchugget.sleeknbouncy10
+Version: 1.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: coned_miro <michaeldvinci@gmail.com>
+Installed-Size: 113
+Depends: mobilesubstrate
+Filename: https://michaeldvinci.github.io/debs/sleeknbouncy.deb
+Size: 122880
+MD5sum: 3EB932821C93380C781DA6D8CC5E9544
+SHA1: 255EF9B78FC12F4054473E23B003809A32D48D04
+SHA256: BAD8D8871C23609BD5DCF0EC8212F95035DC2972AC1553079589FF80034973A0
+Section: Utilities
+Description: Check it
+Author: coned_miro <michaeldvinci@gmail.com>
+Depiction: https://michaeldvinci.github.io/depic/sleeknbouncy/index.html
+Name: Sleek'n'Bouncy10
